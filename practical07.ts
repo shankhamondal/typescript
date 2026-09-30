@@ -16,3 +16,5 @@ console.log(
 console.log(
   `Speaker : ${Speaker}/- (Discount: - ${(Speaker * discount) / 100}/-) = ${Speaker - (Speaker * discount) / 100}/-`,
 );
+
+// That's End
